@@ -2,7 +2,11 @@
 
 This program/script takes a .csv file and displays the monthly expenses to the user in a visual representation. In order to run the program, the file path and the file must all be included. If mistakes in this process are apparent, errors will be thrown.
 
-## TO-DO:
+## WARNING:
+***
+The data was first formatted in an Excel file (.xlsx) before being saved as a .csv file. The data used was not created in a .csv file first.
+
+### TO-DO:
 ***
 For future work, adjustments will be added to show:
    * The average spending of the month
